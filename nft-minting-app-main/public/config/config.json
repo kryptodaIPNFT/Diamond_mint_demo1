@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb80859D2Ea900cE0Cc9491a28D9FE2dF52f744FC",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb80859d2ea900ce0cc9491a28d9fe2df52f744fc",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "Kryptoda Diamonds NFT",
+  "SYMBOL": "dNFT",
+  "MAX_SUPPLY": 48,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/diamondsv3",
+  "SHOW_BACKGROUND": true
+}
